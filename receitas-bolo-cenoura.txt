@@ -2,7 +2,10 @@ Essa é a receita:
 
 
 
-Ingredientes
+- Ingredientes
 
 
-Modo de preparo
+- Modo de preparo
+
+
+- Dicas extras
